@@ -1,0 +1,2 @@
+# go-antpool
+Antpool API
